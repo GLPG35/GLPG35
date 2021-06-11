@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/gistone_35/" target="blank"><img align="center" src="instagram.svg" alt="" height="30" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="twitter.sv" height="30" width="40" /></a>
+  <a href="your link" target="blank"><img align="center" src="twitter.svg" height="30" width="40" /></a>
   <a href="your link" target="blank"><img align="center" src="youtube.svg" height="30" width="40" /></a>
 </p>
 
