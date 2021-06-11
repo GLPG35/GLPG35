@@ -1,6 +1,6 @@
 [![MasterHead](banner_SU.png)](https://github.com/GLPG35)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social media:</h3>
 <p align="left">
   <a href="https://www.instagram.com/gistone_35/" target="blank"><img align="center" src="instagram.svg" alt="" height="30" width="40" /></a>
   <a href="https://twitter.com/Gisa27_35" target="blank"><img align="center" src="twitter.svg" height="30" width="40" /></a>
