@@ -1,6 +1,11 @@
 [![MasterHead](banner_SU.png)](https://github.com/GLPG35)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLPG35&show_icons=true&theme=omni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLPG35&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GLPG35&show_icons=true&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLPG35&layout=compact&theme=omni" />
+</p>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=glis35)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=glis35" />
+</p>
+
