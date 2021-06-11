@@ -2,6 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLPG35&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLPG35&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GLPG35&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GLPG35&repo=your-lie-in-april)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=glis35)
