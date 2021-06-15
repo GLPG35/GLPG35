@@ -5,7 +5,6 @@ I'm a huge fan of Steven Universe and Your Lie in April. I also like a lot being
 ---
 
 ## My social media:
-
 <p align="left">
   <a href="https://www.instagram.com/gistone_35/" target="blank"><img align="center" src="instagram.svg" alt="" height="30" width="40" /></a>
   <a href="https://twitter.com/Gisa27_35" target="blank"><img align="center" src="twitter.svg" height="30" width="40" /></a>
