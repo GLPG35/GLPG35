@@ -13,11 +13,8 @@ I'm a huge fan of Steven Universe and Your Lie in April. I also like a lot being
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GLPG35&show_icons=true&theme=omni" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLPG35&theme=omni" />
+  <h1 align="center">Check out my most recent project!</h1>
+  <a href="https://steven-universe-music.ml/">
+    <img src="Steven_Universe_Music_Logo.webp" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=glis35" />
-</p>
-
