@@ -1,6 +1,6 @@
 [![MasterHead](banner_github.webp)](https://github.com/GLPG35)
 
-I'm a huge fan of Steven Universe and Your Lie in April. I also like a lot being a web developer and learn more and more everyday about it.
+I love being a web developer and keep learning more about it every day.
 
 ---
 
