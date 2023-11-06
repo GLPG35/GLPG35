@@ -14,7 +14,7 @@ I love being a web developer and keep learning more about it every day.
 
 <p align="center">
   <h1 align="center">Check out my favorite project!</h1>
-  <a href="https://glpg35.github.io/steven-universe-music/">
+  <a href="https://glpg35.github.io/Steven-Universe-Music/">
     <img src="Steven_Universe_Music_Logo.webp" />
   </a>
 </p>
